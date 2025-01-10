@@ -1,0 +1,6 @@
+:root, [data-bs-theme=light] {
+  --bs-body-font-family: Inter, sans-serif;
+  --bs-body-font-size: 1rem;
+  --bs-body-font-weight: normal;
+}
+
